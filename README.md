@@ -48,4 +48,4 @@ streamlit run app.py
 ---
 
 ## 📌 Author
-Rithwik Sai  
+Rithwik Bollepalli
